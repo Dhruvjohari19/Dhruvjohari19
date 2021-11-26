@@ -1,4 +1,4 @@
- HOLA TIOS  👋!!!I am Dhruv Johari ,I love to embellish innovative and User-friendly designs with manoeuvring Front-end developer skills.In free time you can find me playing games or watching series. Basically, anything that has strategy element in it.
+ HOLA TIOS  👋!!! I am Dhruv Johari ,I love to embellish innovative and User-friendly designs with manoeuvring Front-end developer skills.In free time you can find me playing games or watching series. Basically, anything that has strategy element in it.
 
 Skills: HTML , CSS , JavaScript , Bootstrap , React.Js ,BootstrapStudio
 
