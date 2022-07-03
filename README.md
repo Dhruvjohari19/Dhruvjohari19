@@ -3,7 +3,7 @@
 Skills: HTML , CSS , JavaScript , Bootstrap , React.Js ,BootstrapStudio
 
 - 🔭 I’m currently working on Frontend Development Projects 
-- 🌱 I’m currently learning React.Js , Power Bi , Cloud 
+- 🌱 I’m currently learning React.Js , Appian  
 - 👯 I’m looking to collaborate on Projects  
 - 💬 Ask me about Web Development , JavaScript ,React.Js ,Digital Marketing 
 - 📫 How to reach me: joharidhruv19@gmail.com 
